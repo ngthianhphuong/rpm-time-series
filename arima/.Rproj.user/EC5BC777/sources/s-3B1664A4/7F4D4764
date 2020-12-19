@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1607261313270.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7F4D4764",
+    "lastKnownWriteTime" : 1607542658,
+    "last_content_update" : 1607542658134,
+    "path" : "~/GIT/rpm-time-series/arima/eda.R",
+    "project_path" : "eda.R",
+    "properties" : {
+        "cursorPosition" : "72,32",
+        "scrollLine" : "60",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
